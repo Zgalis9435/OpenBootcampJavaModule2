@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calcIVA/calcIVA.iml" filepath="$PROJECT_DIR$/calcIVA/calcIVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo2.ejercicio.iml" filepath="$PROJECT_DIR$/modulo2.ejercicio.iml" />
+    </modules>
+  </component>
+</project>
